@@ -1,8 +1,8 @@
 # AzureFundamentalsTips-Feb2022
 This is a repo for resources for my Azure Fundamentals Exam tips session that I gave in February 2022
 
-https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/ 
-Other Azure Certs https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI 
+- https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/ 
+- Other Azure Certs https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI 
 
 ## Tips
 1. Free Vouchers - Cloud Challenges and Virtual Training Days
